@@ -1,9 +1,10 @@
-AI-Powered Cross-Allergen Detection System
-Project Description
+***AI-Powered Cross-Allergen Detection System***
+
+**Project Description**
 
 This project is an AI-based system designed to assist individuals with food allergies by securely managing user accounts and analyzing skin prick test reports. The system converts medical allergy reports into structured allergy profiles that can be used to support personalized allergy management.
 
-Features
+**Features**
 
 Secure user registration and authentication
 
@@ -15,13 +16,13 @@ Identification of positive and negative allergen reactions
 
 Structured storage of user-specific allergy data
 
-System Components
+**System Components**
 
 User Sign-Up Module: Handles secure user registration and authentication.
 
 Report Analyzer Module: Extracts and processes allergen data from skin prick test reports.
 
-🔄 How It Works
+**How It Works**
 
 User creates an account using the sign-up feature
 
@@ -31,7 +32,7 @@ System analyzes the report and extracts allergen information
 
 A structured allergy profile is generated and stored securely
 
-Technologies Used
+**Technologies Used**
 
 Python
 
